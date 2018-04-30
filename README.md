@@ -39,7 +39,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 - [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878) [ICLR'18]
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf) [arXiv '17]
 - [Learning Structured Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1608.03665.pdf) [NIPS '16]
-- [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism] (http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf) [ISCA '17]
+- [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf) [ISCA '17]
 - [Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/pdf/1707.06168.pdf) [ICCV '17]
 - [Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/pdf/1708.06519.pdf) [ICCV '17]
 - [NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908.pdf) [CVPR '18]
