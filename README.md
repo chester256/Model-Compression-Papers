@@ -37,10 +37,9 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 - [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) [CVPR'17]
 - [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342) [ICCV'17]
 - [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878) [ICLR'18]
-- [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
+- [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf) [arXiv '17]
 - [Learning Structured Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1608.03665.pdf) [NIPS '16]
-- [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf)
-- [Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)
+- [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism] (http://www-personal.umich.edu/~jiecaoyu/papers/jiecaoyu-isca17.pdf) [ISCA '17]
 - [Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/pdf/1707.06168.pdf) [ICCV '17]
 - [Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/pdf/1708.06519.pdf) [ICCV '17]
 - [NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908.pdf) [CVPR '18]
@@ -51,9 +50,9 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### Binarized Neural Network
 
-- [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/pdf/1602.02830.pdf)
-- [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf)
-- [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693.pdf)
+- [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/pdf/1602.02830.pdf) [NIPS '16]
+- [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf) [ECCV '16]
+- [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693.pdf) [CVPR '17]
 
 ### Low-rank Approximation
 
@@ -69,21 +68,18 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 ### Knowledge Distillation
 
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf)
-- [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf)
-- [Net2net: Accelerating learning via knowledge transfer]()
-- [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
-- [MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977)
-- [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220.pdf)
-- [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650.pdf)
-- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928.pdf)
-- [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947.pdf)
-- [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
-- [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
-- [Data-Free Knowledge Distillation For Deep Neural Networks](https://arxiv.org/pdf/1710.07535.pdf)
-- [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/pdf/1709.00513.pdf)
-- [Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks](https://arxiv.org/pdf/1710.09505.pdf)
-- [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/pdf/1711.02613.pdf)
-- [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/pdf/1709.02929.pdf)
+- [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf) [ICLR '15]
+- [Net2net: Accelerating learning via knowledge transfer](https://arxiv.org/pdf/1511.05641.pdf) [ICLR '16]
+- [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) [NIPS '15]
+- [MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977) [AAAI '16]
+- [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220.pdf) [arXiv '17]
+- [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650.pdf) [arXiv '16]
+- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928.pdf) [ICLR '17]
+- [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf) [arXiv '17]
+- [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf) [NIPS '17]
+- [Data-Free Knowledge Distillation For Deep Neural Networks](https://arxiv.org/pdf/1710.07535.pdf) [NIPS '17]
+- [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learnin](https://pdfs.semanticscholar.org/0410/659b6a311b281d10e0e44abce9b1c06be462.pdf) [CVPR '17]
+- [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/pdf/1711.02613.pdf) [arXiv '17]
 - [Model compression via distillation and quantization](https://openreview.net/pdf?id=S1XolQbRW) [ICLR '18]
 - [Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy](https://openreview.net/pdf?id=B1ae1lZRb) [ICLR '18]
 
