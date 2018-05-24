@@ -46,6 +46,7 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 - [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://openreview.net/pdf?id=HJ94fqApW) [ICLR '18]
 - [MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks](https://arxiv.org/pdf/1711.06798.pdf) [arXiv '17]
 - [Efficient Sparse-Winograd Convolutional Neural Networks](https://openreview.net/pdf?id=r1rqJyHKg) [ICLR '18]
+- [“Learning-Compression” Algorithms for Neural Net Pruning](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf) [CVPR '18]
 
 
 ### Binarized Neural Network
