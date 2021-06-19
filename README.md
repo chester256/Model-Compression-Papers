@@ -3,8 +3,8 @@ Papers for neural network compression and acceleration. Partly based on [link](h
 
 ### Survey
 
+- [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962), [arXiv '21]
 - [Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1802.00939.pdf), [arxiv '18]
-
 - [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282) [arXiv '17]
 
 
